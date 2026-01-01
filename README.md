@@ -37,8 +37,8 @@ To fit a 14B parameter model into a 16GB GPU, this notebook uses several optimiz
 
 This project stands on the shoulders of giants. A special thanks to:
 
+* **[VITA-EPFL](github.com/vita-epfl/Stable-Video-Infinity)**: For the original Stable Video Infinity research and methodology that allows for high-quality infinite video generation..
 * **[Isi-dev](https://github.com/Isi-dev/Google-Colab_Notebooks):** The primary inspiration for this project. Their work on optimizing Wan2.2 for Colab provided the foundation for the memory management techniques used here.
-* **Wan Video Team:** For the incredible open-source model.
 * **ComfyUI:** For the backend architecture.
 * **City96:** For the GGUF quantization nodes.
 * **Kijai:** For the SVI workflow logic and wrapper nodes.
