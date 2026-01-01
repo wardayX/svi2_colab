@@ -1,4 +1,4 @@
-# Wan2.2 SVI Infinity Colab
+# Stable Video Infinity (SVI) on Colab
 
 ### 📖 About
 
