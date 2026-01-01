@@ -1,4 +1,4 @@
-# Wan2.2 SVI Infinity
+# Wan2.2 SVI Infinity Colab
 
 ### 📖 About
 
